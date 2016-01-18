@@ -1,4 +1,4 @@
 populux
 =======
 
-Top secret project. To be updated shortly.
+Geolocation-based webapp using Rails and geocoder.
